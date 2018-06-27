@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "name": "T800",
+      "email": "t8@gmail.com",
+      "age": 600,
+      "id": "1"
+    },
+    {
+      "name": "John Connor",
+      "email": "jc@gmail.com",
+      "age": 15,
+      "id": "2"
+    },
+    {
+      "name": "Sarah Connor",
+      "email": "sc@gmail.com",
+      "age": 45,
+      "id": "3"
+    },
+    {
+      "name": "Jeff Coates",
+      "email": "jeff.c@gmail.com",
+      "age": 65,
+      "id": "4"
+    },
+    {
+      "name": "John Doe",
+      "email": "jd@gmail.com",
+      "age": 75,
+      "id": "5"
+    },
+    {
+      "name": "Jim Rome",
+      "age": 45,
+      "email": "jrome@espn.com",
+      "id": "ynGqW9C"
+    }
+  ]
+}
